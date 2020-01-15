@@ -1,2 +1,2 @@
 # Python
-<p>Learing python by doing</p> 
+<p>Learning python by doing</p> 
