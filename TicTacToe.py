@@ -7,7 +7,7 @@ import random
 import os
 
 # Function to display the board
-# Based on the numpad of a keyboard where the numbers represent the positions pf a player's marker
+# Based on the numpad of a keyboard where the numbers represent the positions of a player's marker
  
 def display_board(board): # Prints and update the board at each input from the player
     os.system('clear') # To clear the output screen each time a input is taken and show the updated table  
